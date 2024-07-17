@@ -1,6 +1,7 @@
-# about
+![LinkedInCover-light](https://github.com/user-attachments/assets/d787df56-3062-4994-b29d-d4ac410da9ea)
 
-ElevenLabs is an AI Audio research and deployment company. 
+
+Hi! We are ElevenLabs, an AI Audio research and deployment company. 
 
 Our research team develops AI Audio models that generate realistic, versatile and contextually-aware speech and sound effects. Our product team makes these models accessible for everyday users, prosumers, and businesses to create & localize content. 
 
